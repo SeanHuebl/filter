@@ -1,4 +1,4 @@
-# filter
+# Filter
 Created the Filter helper functions to apply Blur, Flip Horizontal, Grayscale, and Edge Detection to an Image (BMP)
 
 Project: Filter | Language: C‍
