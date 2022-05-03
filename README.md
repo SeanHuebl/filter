@@ -1,4 +1,6 @@
 # Filter
+## This Project Is Homework From Harvard's CS50 Class. Per Their Academic Honesty Policy You Are NOT Allowed To Use This code As A Submission For Your Homework!
+
 Created the Filter helper functions to apply Blur, Flip Horizontal, Grayscale, and Edge Detection to an Image (BMP)
 
 Project: Filter | Language: C‍
